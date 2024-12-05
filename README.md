@@ -1,5 +1,3 @@
-Got it! Here’s a professional README tailored for GHOST Sec as an organization:
-
 GHOST Sec
 
 Welcome to GHOST Sec, a cybersecurity organization dedicated to advancing the art and science of digital security. Our mission is to empower ethical hackers, researchers, and security enthusiasts through innovative projects, education, and community-driven collaboration.
