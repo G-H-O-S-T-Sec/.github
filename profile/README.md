@@ -82,8 +82,8 @@ Are you passionate about cybersecurity? Do you live for the thrill of finding vu
 <div align="center">
 
 ```diff
-! Contact us at: [recruiting@ghostsec.org]
-! Security reports: [security@ghostsec.org]
+! Contact us at: [ghostsector@icloud.com]
+! Security reports: [ghostsector@icloud.com]
 ```
 
 </div>
